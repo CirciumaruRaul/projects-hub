@@ -1,0 +1,18 @@
+[submodule "crud-api-nodejs"]
+	path = crud-api-nodejs
+	url = https://github.com/CirciumaruRaul/crud-api-nodejs
+[submodule "portfolio-sanity"]
+	path = portfolio-sanity
+	url = https://github.com/CirciumaruRaul/portfolio-sanity
+[submodule "computerVision"]
+	path = computerVision
+	url = https://github.com/CirciumaruRaul/computerVision
+[submodule "AWDB"]
+	path = AWDB
+	url = https://github.com/CirciumaruRaul/AWDB
+[submodule "B-Ss-project"]
+	path = B-Ss-project
+	url = https://github.com/CirciumaruRaul/B-Ss-project
+[submodule "DataStructures-tasks"]
+	path = DataStructures-tasks
+	url = https://github.com/CirciumaruRaul/DataStructures-tasks
