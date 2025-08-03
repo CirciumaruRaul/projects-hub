@@ -16,3 +16,6 @@
 [submodule "DataStructures-tasks"]
 	path = DataStructures-tasks
 	url = https://github.com/CirciumaruRaul/DataStructures-tasks
+[submodule "MachineLearning"]
+	path = MachineLearning
+	url = https://github.com/CirciumaruRaul/MachineLearning

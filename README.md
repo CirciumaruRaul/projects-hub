@@ -19,6 +19,9 @@ This repository contains a collection of my projects, organized as submodules. E
 ### [crud-api-nodejs](https://github.com/CirciumaruRaul/crud-api-nodejs)
 > A Node.js-based REST API for basic CRUD operations with PrismaORM and a mariadb container launched as database.
 
+### [MachineLearning](https://github.com/CirciumaruRaul/MachineLearning)
+> Projects that showcase my approach of supervised and unsupervised learning models with real world data at hand. 
+
 ### [portfolio-sanity](https://github.com/CirciumaruRaul/portfolio-sanity)
 > A personal portfolio site created with NextJs framework and powered by [Sanity.io](https://www.sanity.io/) for content management.
 
